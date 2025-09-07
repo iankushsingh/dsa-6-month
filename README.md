@@ -17,25 +17,25 @@ This structured six-month plan gradually introduces core DSA concepts and patter
 - **Practice**:
     1. **[Easy]** [Two Sum](https://leetcode.com/problems/two-sum/)
     2. **[Easy]** [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-    3. **[Easy]** [Maximum Subarray (Kadane’s Algorithm)](https://leetcode.com/problems/maximum-subarray/)
-    4. **[Medium]** [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+    3. **[Easy]** [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+    4. **[Medium]** [Maximum Subarray (Kadane’s Algorithm)](https://leetcode.com/problems/maximum-subarray/)
     5. **[Medium]** [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
     6. **[Medium]** [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
-    7. **[Medium]** [Longest Subarray with Sum K](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1/)
+    7. **[Medium]** [Longest Subarray with Sum K](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1/)(GFG)
     8. **[Medium]** [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
 ### **Week 2: Advanced Array Manipulations**
 - **Topics**: Sorting, Interval Overlap, Cyclic Sort
 - **Patterns**: Sorting + Two-pointer, Merge Intervals
 - **Practice**:
-    1. **[Easy]** [Sort Colors (Dutch National Flag Problem)](https://leetcode.com/problems/sort-colors/)
+    1. **[Medium]** [Sort Colors (Dutch National Flag Problem)](https://leetcode.com/problems/sort-colors/)
     2. **[Medium]** [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
     3. **[Medium]** [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
     4. **[Medium]** [Next Permutation](https://leetcode.com/problems/next-permutation/)
     5. **[Medium]** [Rotate Image](https://leetcode.com/problems/rotate-image/)
     6. **[Medium]** [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
     7. **[Medium]** [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
-    8. **[Medium]** [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+    8. **[Hard]** [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 
 ### **Week 3: Strings - Basics and Manipulations**
 - **Topics**: HashMaps for Strings, Substrings
@@ -44,11 +44,11 @@ This structured six-month plan gradually introduces core DSA concepts and patter
     1. **[Easy]** [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
     2. **[Easy]** [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
     3. **[Medium]** [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-    4. **[Medium]** [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
-    5. **[Medium]** [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
-    6. **[Medium]** [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
-    7. **[Medium]** [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
-    8. **[Medium]** [Decode Ways](https://leetcode.com/problems/decode-ways/)
+    4. **[Medium]** [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+    5. **[Medium]** [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+    6. **[Medium]** [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+    7. **[Medium]** [Decode Ways](https://leetcode.com/problems/decode-ways/)
+    8. **[Hard]** [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)  
 
 ### **Week 4: Advanced String Manipulations**
 - **Topics**: Substrings and Subsequence
